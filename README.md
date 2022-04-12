@@ -1,4 +1,4 @@
-# Web-server
+# Weather website with the web-server
 
 ## Watching extenions: js, hbs
 
