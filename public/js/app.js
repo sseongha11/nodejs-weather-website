@@ -1,5 +1,3 @@
-console.log('Client side javascript file is loaded!')
-
 // Browser HTTP Requests with Fetch
 
 const weatherForm = document.querySelector('form')
